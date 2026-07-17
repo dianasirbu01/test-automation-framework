@@ -1,0 +1,27 @@
+{
+  "name": "test-automation-framework",
+  "version": "1.0.0",
+  "description": "This is a. test automation framework that  is containing UI, API and Performance testing. The programming language is TypeScript with Playwright",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dianasirbu01/test-automation-framework.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dianasirbu01/test-automation-framework/issues"
+  },
+  "homepage": "https://github.com/dianasirbu01/test-automation-framework#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.61.1",
+    "typescript": "^7.0.2"
+  }
+}
